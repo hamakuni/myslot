@@ -16,10 +16,24 @@ main{
     justify-content: space-between;
 }
 
+h1{
+    background: skyblue;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+
+}
+
 .panel img{
     width: 90px;
     height: 110px; 
     margin-bottom: 4px;
+    border-radius: 16px;
+    line-height: 32px;
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
 }
 
 .stop{
